@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: black;
+  background-color: rgba(255, 223, 118, 0.689);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  padding: 75px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.first {
+  color: blue;
+}
+
+#your-name {
+  background-color: rgb(225, 220, 105);
+  border: 5px solid #444;
+}
+
+input,
+button {
+  padding: 10;
+  font-size: 16px;
+}
+
+a {
+  background-color: yellowgreen;
+}
+
+#js-logo {
+  /* width: 100px; */
+  height: 100px;
+}
+
+#your-name h2 {
+  color: olivedrab;
+}
