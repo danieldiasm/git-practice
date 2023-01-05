@@ -1,0 +1,12 @@
+Notes about amending changes.
+
+It is important to stage added or modified files before amending, otherwise no changes will be made.
+
+You can amend simply doing:
+git commit amend -m "New commit message to rewrite last one"
+
+Doing so you'll be avoiding a lot of commits fixing mistakes that were done.
+
+Also, you can use amend command only to change the commit message if needed!
+
+Take a look at reset-author later on =)
